@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mini</string>
+    <string name="all_apps">All apps</string>
+    <string name="search_hint">Search · hold to pin</string>
+    <string name="pinned">Pinned to home</string>
+    <string name="unpinned">Removed from home</string>
+    <string name="pin_full">Home is full (max 7)</string>
+</resources>

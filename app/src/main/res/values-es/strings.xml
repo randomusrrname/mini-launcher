@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mini</string>
+    <string name="all_apps">Todas las apps</string>
+    <string name="search_hint">Buscar · mantené para fijar</string>
+    <string name="pinned">Fijada en el inicio</string>
+    <string name="unpinned">Quitada del inicio</string>
+    <string name="pin_full">Inicio lleno (máx. 7)</string>
+</resources>
